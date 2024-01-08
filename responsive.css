@@ -1,0 +1,119 @@
+@media screen and (min-width: 320px) and (max-width:768px) {
+    .banner_left {
+        padding: 140px 0 0px 10px;
+    }
+
+    .banner_left span {
+        font-size: 22px;
+        line-height: 40px;
+    }
+
+    .banner_left h2, .banner_left .second {
+        font-size: 40px;
+        font-weight: 600;
+    }
+
+    .banner_left a {
+        font-size: 12px;
+        line-height: 20px;
+        height: 70px;
+        width: 70px;
+    }
+
+    .buttonimg {
+        width: 90px;
+        left: 75px;
+        top: -31px;
+    }
+
+    .banner_left .socialicons a {
+        margin: 12px 5px;
+    }
+
+
+    .banner_right img {
+        width: 160px;
+        bottom: 140px;
+        right: 80px;
+    }
+
+    .banner_middleimg {
+        position: unset;
+    }
+
+
+    .video-sec h3 {
+        font-size: 36px;
+        
+    }
+
+
+    .audio_sec h3 {
+        font-size: 36px;
+        
+    }
+
+    .audio_sec h6 {
+       
+        font-size: 23px;
+        
+    }
+
+    .banner_left h2, .banner_left .second {
+      
+        Line-height: 42px;
+    }
+
+    div#main-nav {
+        text-align: center;
+    }
+
+    .banner_left ul.socialicons {
+        display: flex;
+        justify-content: center;
+    }
+
+    .testimonialcontent h3 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+
+    .aboutus_sec {
+        
+        padding: 0px 0;
+    }
+
+    .videomainner .row .col-md-6:nth-child(2) {
+        top: 0;
+    }
+
+    .videomainner .row .col-md-6:nth-child(4) {
+        top: 0;
+    }
+
+    .audio_sec {
+        padding: 10px 0;
+    }
+
+    .owl-nav {
+        position: absolute;
+        right: -20px;
+    }
+
+    .footer {
+        background-color: #383838;
+        padding: 24px 0px;
+    }
+
+    .footer_menu ul {
+        text-align: center;
+    }
+
+    .copyright p {
+        text-align: center;
+    }
+
+    .footer_soical ul {
+        text-align: center;
+    }
+}
